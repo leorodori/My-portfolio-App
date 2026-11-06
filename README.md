@@ -1,4 +1,4 @@
-# tsumiage (tsumiage)
+# My-portfolio-App
 
 # 1. サービス概要
 - **このサービスはどんなサービスか：**
