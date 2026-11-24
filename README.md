@@ -249,4 +249,4 @@ Figma:<https://www.figma.com/design/9lzUYEhqhoPDPrkPsIbAYm/%E7%94%BB%E9%9D%A2%E9
 ---
 
 # 12. ER図
-[![Image from Gyazo](https://i.gyazo.com/1dee083b5f1a6713877b8751da851477.png)](https://gyazo.com/1dee083b5f1a6713877b8751da851477)
+[![Image from Gyazo](https://i.gyazo.com/3d8f3d503e2bed9e24d1f9a52897fd0c.png)](https://gyazo.com/3d8f3d503e2bed9e24d1f9a52897fd0c)
